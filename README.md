@@ -6,9 +6,6 @@
 [![Version](https://img.shields.io/badge/version-v2.3-orange.svg)]()
 
 
-===================================
-
-===================================
 Developer: Ganesh P. Nair (⚡GPN⚡)
 License: Proprietary – Educational & Personal Use Only
 Build Year: 2025
