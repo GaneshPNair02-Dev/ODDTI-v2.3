@@ -82,8 +82,14 @@ It may be used for **personal or educational purposes only** — redistribution,
 > _Track: “GPN ring1” | Produced in GarageBand | Included as part of ODDTI™ v2.3 Repository._
 
 ---
+### 📧 Contact  
 
+For permissions, collaboration, or any inquiries related to **ODDTI™**, please contact:  
 
+> **Ganesh P. Nair (⚡GPN⚡)**  
+> 📩 **Email:** ganeshpnair793@gmail.com  
+
+---
 -----------------------------------
 ⚡ Tagline
 -----------------------------------
