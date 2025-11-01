@@ -69,6 +69,21 @@ Redistribution or modification without written permission is prohibited.
 For personal and educational use only.
 See LICENSE.txt for full terms.
 
+---
+
+### 🎵 Bonus Content – Original Music by ⚡GPN⚡  
+
+As part of the ODDTI™ project, an original track titled **“GPN ring1”** has been composed and included under the `Music/` folder.  
+This instrumental was created in **GarageBand (Apple)** and serves as the **official ODDTI™ ringtone/theme**.  
+
+It may be used for **personal or educational purposes only** — redistribution, remixing, or commercial use is **not permitted** without permission from the creator.  
+
+> _© 2025 Ganesh P. Nair. All rights reserved._  
+> _Track: “GPN ring1” | Produced in GarageBand | Included as part of ODDTI™ v2.3 Repository._
+
+---
+
+
 -----------------------------------
 ⚡ Tagline
 -----------------------------------
