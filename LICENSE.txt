@@ -51,3 +51,10 @@ ODDTI\'99 is a non-commercial educational project created to promote\
 computational thinking and creative engineering among students.\
 \
 All rights reserved. Unauthorized use or modification is strictly prohibited.}
+\
+The audio file “GPN_ring1.mp3” is original music by Ganesh P. Nair (⚡GPN⚡)
+and is licensed for personal and educational use only.
+Redistribution, remixing, or commercial use is prohibited without prior written permission
+from the creator.
+
+© 2025 Ganesh P. Nair. All rights reserved.
