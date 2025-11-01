@@ -1,4 +1,9 @@
-⚡ ODDTI™ v2.3 — Predictor Edition
+# ⚡ ODDTI™ v2.3 — The Odd/Even Hand Cricket Game  
+> “From school bench to Python screen.”
+
+[![License: GPN Proprietary](https://img.shields.io/badge/license-GPN%20Proprietary-blue.svg)](LICENSE.txt)
+[![Platform](https://img.shields.io/badge/platform-TI84%20%7C%20PC-green.svg)]()
+[![Version](https://img.shields.io/badge/version-v2.3-orange.svg)]()
 ===================================
 
 Developer: Ganesh P. Nair (⚡GPN⚡)
