@@ -1,0 +1,72 @@
+# ⚡ ODDTI™ v2.3 — Predictor Edition  
+### Proprietary License Agreement  
+
+© 2025 **Ganesh P. Nair (⚡GPN⚡)**  
+All rights reserved.  
+
+---
+
+## 📜 LICENSE TERMS — PROPRIETARY USE  
+
+This software and all its associated files — including Python code, documentation, manuals, logos, flowcharts, and related materials — are the **intellectual property** of **Ganesh P. Nair (⚡GPN⚡)**.  
+
+You are **permitted to**:  
+- ✅ Use the software for **personal and educational purposes**.  
+- ✅ Run the program on supported devices *(TI-84 Plus CE Python, PC, Mac, etc.)* for personal enjoyment or study.  
+- ✅ Share links to this repository for learning purposes, **with proper credit** to the author.  
+
+You are **not permitted to**:  
+- ❌ Modify, redistribute, or republish the code in any form without **written permission** from the author.  
+- ❌ Claim ownership, remove attribution, or reuse code fragments in any other **commercial or public project**.  
+- ❌ Host, mirror, or re-upload the project (in part or full) on any other website or platform.  
+
+---
+
+## 🧩 ATTRIBUTION  
+
+When referencing or showcasing this project, you must credit the creator clearly as follows:  
+
+> © 2025 Ganesh P. Nair  
+> Developer of **ODDTI™** — *“The classic Indian bench game, reborn in Python.”*  
+
+Proper attribution must include both the project name (**ODDTI™**) and the author’s name (**Ganesh P. Nair / ⚡GPN⚡**).  
+
+---
+
+## ⚖️ WARRANTY DISCLAIMER  
+
+This software is provided **“as is,”** without any express or implied warranty.  
+The author shall not be held liable for any damages arising from the use or misuse of this software.  
+Use at your own discretion and risk.  
+
+---
+
+## 🎓 SUMMARY  
+
+**ODDTI™** is a **non-commercial educational project** created to promote computational thinking, nostalgia-based creativity, and logical learning among students.  
+
+All rights reserved. **Unauthorized use, copying, or modification is strictly prohibited.**  
+
+---
+
+## 🎵 AUDIO LICENSE NOTICE  
+
+The included file **`GPN_ring1.mp3`** is **original music** composed by **Ganesh P. Nair (⚡GPN⚡)**.  
+It is licensed strictly for **personal and educational use only**.  
+
+You are **not permitted to**:  
+- Reuse, remix, sample, or redistribute this track.  
+- Include it in any other software, media, or product without **written permission** from the creator.  
+
+---
+
+## 🧠 FINAL NOTE  
+
+ODDTI™ stands as a personal, creative, and educational expression — built to honor childhood nostalgia through engineering logic.  
+Any commercial, modified, or redistributed version must have explicit approval from the creator.  
+
+---
+
+© 2025 **Ganesh P. Nair (⚡GPN⚡)**  
+All Rights Reserved.  
+ODDTI™, GPN™, and related materials are protected under the **ODDTI Proprietary License**.
