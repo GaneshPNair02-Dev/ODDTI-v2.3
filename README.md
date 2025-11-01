@@ -1,11 +1,14 @@
 # ⚡ ODDTI™ v2.3 — The Odd/Even Hand Cricket Game  
 > “From school bench to Python screen.”
-🧠 **Original Flowchart:** The attached *ODDTI FlowChart.pdf* shows the original hand-drawn design made by Ganesh P. Nair (GPN) during early development — a raw snapshot of the logic and structure that inspired ODDTI™.
+
 [![License: GPN Proprietary](https://img.shields.io/badge/license-GPN%20Proprietary-blue.svg)](LICENSE.txt)
 [![Platform](https://img.shields.io/badge/platform-TI84%20%7C%20PC-green.svg)]()
 [![Version](https://img.shields.io/badge/version-v2.3-orange.svg)]()
-===================================
 
+
+===================================
+🧠 **Original Flowchart:** The attached *ODDTI FlowChart.pdf* shows the original hand-drawn design made by Ganesh P. Nair (GPN) during early development — a raw snapshot of the logic and structure that inspired ODDTI™.
+===================================
 Developer: Ganesh P. Nair (⚡GPN⚡)
 License: Proprietary – Educational & Personal Use Only
 Build Year: 2025
